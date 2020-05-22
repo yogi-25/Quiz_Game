@@ -415,9 +415,9 @@ void quiz()
 
 	abc[0] = {"Which of the following is not the characteristic of a class?","Generic","Friend","Inline","Inline",'c'};
 	abc[1] = {"Which of the following statements is most suitable for the C++ language?","Statically typed language.","Dynamically typed language.","All","Type-less language.",'a'};
-	abc[2] = {"Which of the following operators doesn’t allow overloading?","Comparison operator.","Assignment operator.","Scope resolution operator.","Dereference operator.",'c'};
-	abc[3] = {"Which of the following isn’t supported in C++ language?","Namespaces.","Inheritance","Reflection.","Polymorphism.",'c'};
-	abc[4] = {"Which of the following keywords can’t appear inside a class definition?","template","static","virtual","friend",'a'};
+	abc[2] = {"Which of the following operators doesnÂ’t allow overloading?","Comparison operator.","Assignment operator.","Scope resolution operator.","Dereference operator.",'c'};
+	abc[3] = {"Which of the following isnÂ’t supported in C++ language?","Namespaces.","Inheritance","Reflection.","Polymorphism.",'c'};
+	abc[4] = {"Which of the following keywords canÂ’t appear inside a class definition?","template","static","virtual","friend",'a'};
 
 	do {
 		duration = ( std::clock() - start ) / (double) CLOCKS_PER_SEC;
