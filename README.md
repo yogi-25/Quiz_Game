@@ -1,5 +1,9 @@
 # Quiz_Game
-Data Structure Mini Project By using stack and queues concepts
+The Data Structure Quiz project is an C++ application that provides a new technique of playing game. This application is especially developed for student who like to play challaging game. 
+
+This app uses stack and queue Data Structure.
+
+
 ![Welcome1](https://user-images.githubusercontent.com/55496505/103168114-89ba3000-4856-11eb-9706-90dba7b37054.png)
 ![Welcome2](https://user-images.githubusercontent.com/55496505/103168579-65605280-485a-11eb-817e-75f6ac7975a7.png)
 ![Welcome3](https://user-images.githubusercontent.com/55496505/103168581-6abd9d00-485a-11eb-96ab-8a1626529b26.png)
